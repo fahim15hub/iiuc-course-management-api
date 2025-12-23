@@ -1,4 +1,4 @@
-package com.iiuc.csesms.controller;
+package com.iiuc.csecms.controller;
 
 import com.iiuc.csecms.model.Course;
 import com.iiuc.csecms.service.CourseService;
